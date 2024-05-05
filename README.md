@@ -1,1 +1,3 @@
-# Assignment-2-set1-Q1-Basic-Statistic-Level-2
+Q 20) Calculate probability from the given dataset for the below cases
+
+Data _set: Cars.csv Calculate the probability of MPG of Cars for the below cases. MPG <- Cars$MPG a. P(MPG>38) b. P(MPG<40) c. P (20<MPG<50)# Assignment-2-set1-Q1-Basic-Statistic-Level-2
